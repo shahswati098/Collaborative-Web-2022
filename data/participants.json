@@ -349,5 +349,15 @@
     "twitter": "",
     "referral": "college mail"
   }
+   {
+    "name": "Swati Shah",
+    "imageurl": "",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/shahswati098",
+    "twitter": "",
+    "referral": "Open Code"
+  },
  
 ]
